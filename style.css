@@ -51,3 +51,11 @@ footer {
   padding: 20px;
   font-size: 0.9rem;
 }
+.video-wrapper {
+  display: flex;
+  justify-content: center;
+}
+.video-wrapper iframe {
+  max-width: 100%;
+  height: auto;
+}
